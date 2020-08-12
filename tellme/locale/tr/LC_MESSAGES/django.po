@@ -47,116 +47,140 @@ msgid "Creation date"
 msgstr ""
 
 #: templates/tellme/initButtonText.txt:2
-msgid "Geri Bildirim"
-msgstr ""
+msgid "Send feedback"
+msgstr "Geri Bildirim"
 
 #: templates/tellme/tpl-description.html:3
 #: templates/tellme/tpl-highlighter.html:3 templates/tellme/tpl-overview.html:3
 #: templates/tellme/tpl-submit-error.html:3
 #: templates/tellme/tpl-submit-success.html:3
-msgid "Geri Bildirim"
-msgstr ""
+
+msgid "Feedback"
+msgstr "Geri Bildirim"
 
 #: templates/tellme/tpl-description.html:4
 msgid ""
+"Feedback lets you send us suggestions about this site. We welcome problem "
+"reports, feature ideas and general comments."
+msgstr ""
 "Gönderdiğiniz geri bildirimlerle bu sitenin gelişimine katkı sağlayın, lütfen. Sorunları ve önerileri memnuniyetle kabul ediyoruz. "
 "Hata, özellik veya genel yorum yapabilirsiniz."
-msgstr ""
+
 
 #: templates/tellme/tpl-description.html:5
-msgid "Lütfen öneri veya hatayla ilgili bir yorum yazınız:"
-msgstr ""
+msgid "Start by writing a brief description:"
+msgstr "Lütfen öneri veya hatayla ilgili bir yorum yazınız:"
+
 
 #: templates/tellme/tpl-description.html:6
 msgid ""
-"Arayüz üzerinde işaretleyerek ekran görüntüsü alınız."
+"Next we'll let you identify areas of the page related to your description."
 msgstr ""
+"Arayüz üzerinde işaretleyerek ekran görüntüsü alınız."
 
 #: templates/tellme/tpl-description.html:7
 #: templates/tellme/tpl-highlighter.html:15
-msgid "İleri"
-msgstr ""
+msgid "Next"
+msgstr "İleri"
+
 
 #: templates/tellme/tpl-description.html:8
 #: templates/tellme/tpl-overview.html:18
-msgid "Lütfen açıklama giriniz."
-msgstr ""
+msgid "Please enter a description."
+msgstr "Lütfen açıklama giriniz."
+
 
 #: templates/tellme/tpl-highlighter.html:4
 msgid ""
-"
-Geri bildiriminizi daha iyi anlamamıza yardımcı olması için sayfayı tıklayın ve sürükleyin."
-"Bu iletişim kutusu engel oluyorsa sürükleyebilirsiniz."
+"Click and drag on the page to help us better understand your feedback. You "
+"can move this dialog if it's in the way."
 msgstr ""
+"Geri bildiriminizi daha iyi anlamamıza yardımcı olması için sayfayı tıklayın ve sürükleyin."
+"Bu iletişim kutusu engel oluyorsa sürükleyebilirsiniz."
 
 #: templates/tellme/tpl-highlighter.html:7
-msgid "Ekran Görüntüsü alın"
-msgstr ""
+msgid "Highlight"
+msgstr "Ekran Görüntüsü alın"
+
 
 #: templates/tellme/tpl-highlighter.html:8
-msgid "Geri bildirimle alakalı ekran görüntüsü paylaşınız."
-msgstr ""
+msgid "Highlight areas relevant to your feedback."
+msgstr "Geri bildirimle alakalı ekran görüntüsü paylaşınız."
+
 
 #: templates/tellme/tpl-highlighter.html:11
-msgid "Karala"
-msgstr ""
+msgid "Black out"
+msgstr "Karala"
 
 #: templates/tellme/tpl-highlighter.html:12
-msgid "Kişisel verinizi karalayınız."
-msgstr ""
+msgid "Black out any personal information."
+msgstr "Kişisel verinizi karalayınız."
 
 #: templates/tellme/tpl-highlighter.html:18
 #: templates/tellme/tpl-overview.html:16
-msgid "Geri"
-msgstr ""
+msgid "Back"
+msgstr "Geri"
+
 
 #: templates/tellme/tpl-overview.html:5
-msgid "Açıklama"
-msgstr ""
+msgid "Description"
+msgstr "Açıklama"
+
 
 #: templates/tellme/tpl-overview.html:6
-msgid "Ek Bilgi"
-msgstr ""
+msgid "Additional info"
+msgstr "Ek Bilgi"
+
 
 #: templates/tellme/tpl-overview.html:7
 msgid "None"
 msgstr ""
 
 #: templates/tellme/tpl-overview.html:8
-msgid "Tarayıcı bilgisi"
-msgstr ""
+msgid "Browser Info"
+msgstr "Tarayıcı bilgisi"
+
 
 #: templates/tellme/tpl-overview.html:9
-msgid "Sayfa bilgisi"
-msgstr ""
+msgid "Page Info"
+msgstr "Sayfa bilgisi"
+
 
 #: templates/tellme/tpl-overview.html:10
-msgid "Sayfa Yapısı"
-msgstr ""
+msgid "Page Structure"
+msgstr "Sayfa Yapısı"
+
 
 #: templates/tellme/tpl-overview.html:15
-msgid "Gönder"
-msgstr ""
+msgid "Submit"
+msgstr "Gönder"
+
 
 #: templates/tellme/tpl-submit-error.html:4
-msgid "Geri bildirim gönderilirken hata oluştu, lütfen tekrar deneyiniz."
-msgstr ""
+msgid "Sadly an error occurred while sending your feedback. Please try again."
+msgstr "Geri bildirim gönderilirken hata oluştu, lütfen tekrar deneyiniz."
+
 
 #: templates/tellme/tpl-submit-error.html:5
 #: templates/tellme/tpl-submit-success.html:6
-msgid "Tamam"
-msgstr ""
+msgid "OK"
+msgstr "Tamam"
+
 
 #: templates/tellme/tpl-submit-success.html:4
 msgid ""
-"Geri bildiriminiz için çok teşekkür ederim, sizlerin görüşü çok değerli."
+"Thank you for your feedback. We value every piece of feedback we receive."
 msgstr ""
+"Geri bildiriminiz için çok teşekkür ederim, sizlerin görüşü çok değerli."
+
 
 #: templates/tellme/tpl-submit-success.html:5
 msgid ""
-"Yorumlarınıza geri dönüş yapılmamış olabilir aklımızdasınız."
-""
+"We cannot respond individually to every one, but we will use your comments "
+"as we strive to improve your experience."
 msgstr ""
+"Yorumlarınıza geri dönüş yapılmamış olabilir aklımızdasınız."
+
 
 #: views.py:29
 #, python-format
@@ -172,4 +196,5 @@ msgstr ""
 #, python-format
 msgid "[%(host)s] Received feedback"
 msgstr ""
+
 
